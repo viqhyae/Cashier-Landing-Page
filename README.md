@@ -6,4 +6,6 @@ Project learn by BWA
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap&logoColor=white)
 
 Preview Website :
+
 ![Preview 1](images/preview%20(1).png)
+![Preview 1](images/preview%20(2).png)
